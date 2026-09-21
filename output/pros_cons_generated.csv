@@ -1,0 +1,565 @@
+company_id,type,rule_triggered,text,confidence_pct
+ABB,pro,ROE_GT_20,Company has delivered superior Return on Equity of 32.5%,95
+ABB,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 36.5%,90
+ABB,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹1,095 Cr",92
+ABB,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 21.7% CAGR over 5 years,88
+ABB,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+ABB,pro,HEALTHY_OPM,Healthy operating margin of 24.8%,85
+ABB,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 75.6x P/E (SIMULATED),80
+ABB,con,HIGH_WC_DAYS,Working capital cycle is extended at 221 days,78
+ABB,con,HIGH_CAPEX_INTENSITY,High CapEx intensity (84.5% of sales) requires continuous capital deployment,75
+ADANIENSOL,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹1,095 Cr",92
+ADANIENSOL,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 17.9% CAGR over 5 years,88
+ADANIENSOL,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 16.4% CAGR over 5 years,88
+ADANIENSOL,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+ADANIENSOL,pro,HEALTHY_OPM,Healthy operating margin of 34.4%,85
+ADANIENSOL,con,HIGH_LEVERAGE,Elevated leverage with Debt-to-Equity ratio of 2.93x,92
+ADANIENSOL,con,LOW_ROE,"Subdued Return on Equity at 9.5%, below large-cap historical averages",88
+ADANIENSOL,con,LOW_ICR,Low interest coverage of 2.3x reflects interest burden on operating profit,85
+ADANIENSOL,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 58.5x P/E (SIMULATED),80
+ADANIENSOL,con,HIGH_WC_DAYS,Working capital cycle is extended at 154 days,78
+ADANIENSOL,con,HIGH_CAPEX_INTENSITY,High CapEx intensity (29.8% of sales) requires continuous capital deployment,75
+ADANIENT,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 19.0% CAGR over 5 years,88
+ADANIENT,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 45.8% CAGR over 5 years,88
+ADANIENT,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+ADANIENT,con,NEGATIVE_FCF,"Free cash flow is negative at ₹-8,455 Cr due to heavy reinvestment/working capital",90
+ADANIENT,con,LOW_ROE,"Subdued Return on Equity at 8.5%, below large-cap historical averages",88
+ADANIENT,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 58.9x P/E (SIMULATED),80
+ADANIENT,con,HIGH_CAPEX_INTENSITY,High CapEx intensity (19.5% of sales) requires continuous capital deployment,75
+ADANIGREEN,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 35.0% CAGR over 5 years,88
+ADANIGREEN,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+ADANIGREEN,pro,HEALTHY_OPM,Healthy operating margin of 79.4%,85
+ADANIGREEN,con,HIGH_LEVERAGE,Elevated leverage with Debt-to-Equity ratio of 6.60x,92
+ADANIGREEN,con,NEGATIVE_FCF,"Free cash flow is negative at ₹-13,347 Cr due to heavy reinvestment/working capital",90
+ADANIGREEN,con,LOW_ICR,Low interest coverage of 1.7x reflects interest burden on operating profit,85
+ADANIGREEN,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 45.3x P/E (SIMULATED),80
+ADANIGREEN,con,HIGH_WC_DAYS,Working capital cycle is extended at 177 days,78
+ADANIGREEN,con,HIGH_CAPEX_INTENSITY,High CapEx intensity (228.4% of sales) requires continuous capital deployment,75
+ADANIPORTS,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹8,250 Cr",92
+ADANIPORTS,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 19.6% CAGR over 5 years,88
+ADANIPORTS,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+ADANIPORTS,pro,HEALTHY_OPM,Healthy operating margin of 58.4%,85
+ADANIPORTS,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 48.9x P/E (SIMULATED),80
+ADANIPORTS,con,HIGH_WC_DAYS,Working capital cycle is extended at 162 days,78
+ADANIPORTS,con,HIGH_CAPEX_INTENSITY,High CapEx intensity (25.3% of sales) requires continuous capital deployment,75
+ADANIPOWER,pro,ROE_GT_20,Company has delivered superior Return on Equity of 48.3%,95
+ADANIPOWER,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹17,651 Cr",92
+ADANIPOWER,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 16.1% CAGR over 5 years,88
+ADANIPOWER,pro,HEALTHY_OPM,Healthy operating margin of 36.2%,85
+ADANIPOWER,pro,TOP_COMPOSITE_SCORE,Ranks favorably on overall composite financial health index (73.9/100),80
+ADANIPOWER,con,GENERAL_MARKET_CYCLICALITY,Performance subject to sector cyclicality and broader macroeconomic fluctuations,70
+AMBUJACEM,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 19.5% CAGR over 5 years,88
+AMBUJACEM,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+AMBUJACEM,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 3.1% (SIMULATED),82
+AMBUJACEM,con,NEGATIVE_FCF,"Free cash flow is negative at ₹-3,295 Cr due to heavy reinvestment/working capital",90
+AMBUJACEM,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 55.6x P/E (SIMULATED),80
+AMBUJACEM,con,HIGH_CAPEX_INTENSITY,High CapEx intensity (27.0% of sales) requires continuous capital deployment,75
+APOLLOHOSP,pro,POSITIVE_FCF,Generates positive Free Cash Flow of ₹383 Cr,92
+APOLLOHOSP,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 14.7% CAGR over 5 years,88
+APOLLOHOSP,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 36.1% CAGR over 5 years,88
+APOLLOHOSP,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+APOLLOHOSP,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 3.2% (SIMULATED),82
+APOLLOHOSP,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 47.7x P/E (SIMULATED),80
+ASIANPAINT,pro,ROE_GT_20,Company has delivered superior Return on Equity of 29.7%,95
+ASIANPAINT,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 31.8%,90
+ASIANPAINT,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹3,556 Cr",92
+ASIANPAINT,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 13.0% CAGR over 5 years,88
+ASIANPAINT,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 20.3% CAGR over 5 years,88
+ASIANPAINT,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+ASIANPAINT,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 2.4% (SIMULATED),82
+ASIANPAINT,pro,HEALTHY_OPM,Healthy operating margin of 21.4%,85
+ASIANPAINT,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 73.4x P/E (SIMULATED),80
+ATGL,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 21.1% CAGR over 5 years,88
+ATGL,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 23.9% CAGR over 5 years,88
+ATGL,pro,HEALTHY_OPM,Healthy operating margin of 24.7%,85
+ATGL,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 57.0x P/E (SIMULATED),80
+AXISBANK,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 14.7% CAGR over 5 years,88
+AXISBANK,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 39.7% CAGR over 5 years,88
+AXISBANK,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 2.3% (SIMULATED),82
+AXISBANK,con,NEGATIVE_FCF,"Free cash flow is negative at ₹-14,556 Cr due to heavy reinvestment/working capital",90
+AXISBANK,con,LOW_CFO_PAT,"Low cash conversion (CFO/PAT = -0.22), suggesting accrual buildup",80
+BAJAJ-AUTO,pro,ROE_GT_20,Company has delivered superior Return on Equity of 26.6%,95
+BAJAJ-AUTO,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 27.2%,90
+BAJAJ-AUTO,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹6,486 Cr",92
+BAJAJ-AUTO,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 3.6% (SIMULATED),82
+BAJAJ-AUTO,con,GENERAL_MARKET_CYCLICALITY,Performance subject to sector cyclicality and broader macroeconomic fluctuations,70
+BAJAJFINSV,pro,ROE_GT_20,Company has delivered superior Return on Equity of 25.9%,95
+BAJAJFINSV,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 21.0% CAGR over 5 years,88
+BAJAJFINSV,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 23.8% CAGR over 5 years,88
+BAJAJFINSV,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 2.6% (SIMULATED),82
+BAJAJFINSV,con,NEGATIVE_FCF,"Free cash flow is negative at ₹-79,634 Cr due to heavy reinvestment/working capital",90
+BAJAJFINSV,con,LOW_CFO_PAT,"Low cash conversion (CFO/PAT = -4.40), suggesting accrual buildup",80
+BAJAJHLDNG,pro,DEBT_FREE,Company is virtually debt-free with zero borrowings,98
+BAJAJHLDNG,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹1,469 Cr",92
+BAJAJHLDNG,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 31.6% CAGR over 5 years,88
+BAJAJHLDNG,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 19.3% CAGR over 5 years,88
+BAJAJHLDNG,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 3.4% (SIMULATED),82
+BAJAJHLDNG,con,LOW_CFO_PAT,"Low cash conversion (CFO/PAT = 0.26), suggesting accrual buildup",80
+BAJFINANCE,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 24.4% CAGR over 5 years,88
+BAJFINANCE,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 29.3% CAGR over 5 years,88
+BAJFINANCE,con,NEGATIVE_FCF,"Free cash flow is negative at ₹-79,931 Cr due to heavy reinvestment/working capital",90
+BAJFINANCE,con,LOW_CFO_PAT,"Low cash conversion (CFO/PAT = -5.03), suggesting accrual buildup",80
+BAJFINANCE,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 69.2x P/E (SIMULATED),80
+BANKBARODA,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 17.5% CAGR over 5 years,88
+BANKBARODA,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 74.5% CAGR over 5 years,88
+BANKBARODA,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 2.6% (SIMULATED),82
+BANKBARODA,con,NEGATIVE_FCF,"Free cash flow is negative at ₹-7,559 Cr due to heavy reinvestment/working capital",90
+BANKBARODA,con,LOW_CFO_PAT,"Low cash conversion (CFO/PAT = -0.33), suggesting accrual buildup",80
+BEL,pro,ROE_GT_20,Company has delivered superior Return on Equity of 4744.1%,95
+BEL,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 3628.3%,90
+BEL,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 16.1% CAGR over 5 years,88
+BEL,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+BEL,pro,HEALTHY_OPM,Healthy operating margin of 24.9%,85
+BEL,con,NEGATIVE_FCF,"Free cash flow is negative at ₹-1,265 Cr due to heavy reinvestment/working capital",90
+BEL,con,HIGH_CAPEX_INTENSITY,High CapEx intensity (29.2% of sales) requires continuous capital deployment,75
+BHARTIARTL,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹27,809 Cr",92
+BHARTIARTL,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 13.2% CAGR over 5 years,88
+BHARTIARTL,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 38.4% CAGR over 5 years,88
+BHARTIARTL,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+BHARTIARTL,pro,HEALTHY_OPM,Healthy operating margin of 52.2%,85
+BHARTIARTL,con,HIGH_LEVERAGE,Elevated leverage with Debt-to-Equity ratio of 2.61x,92
+BHARTIARTL,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 63.8x P/E (SIMULATED),80
+BHARTIARTL,con,HIGH_CAPEX_INTENSITY,High CapEx intensity (34.1% of sales) requires continuous capital deployment,75
+BHEL,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 4.0% (SIMULATED),82
+BHEL,con,NEGATIVE_FCF,"Free cash flow is negative at ₹-2,382 Cr due to heavy reinvestment/working capital",90
+BHEL,con,LOW_ROE,"Subdued Return on Equity at 1.1%, below large-cap historical averages",88
+BHEL,con,LOW_ICR,Low interest coverage of 1.6x reflects interest burden on operating profit,85
+BHEL,con,SLOW_REV_GROWTH,Modest 5-year revenue CAGR of -4.7%,82
+BHEL,con,NEGATIVE_PAT_GROWTH,Net profit has contracted over the 5-year historical horizon,85
+BHEL,con,LOW_CFO_PAT,"Low cash conversion (CFO/PAT = -13.17), suggesting accrual buildup",80
+BHEL,con,HIGH_WC_DAYS,Working capital cycle is extended at 461 days,78
+BOSCHLTD,pro,ROE_GT_20,Company has delivered superior Return on Equity of 20.6%,95
+BOSCHLTD,pro,DEBT_FREE,Company is virtually debt-free with zero borrowings,98
+BOSCHLTD,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹1,536 Cr",92
+BOSCHLTD,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 4.2% (SIMULATED),82
+BOSCHLTD,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 58.4x P/E (SIMULATED),80
+BPCL,pro,ROE_GT_20,Company has delivered superior Return on Equity of 35.5%,95
+BPCL,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 28.6%,90
+BPCL,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹25,415 Cr",92
+BPCL,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 25.8% CAGR over 5 years,88
+BPCL,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+BPCL,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 68.2x P/E (SIMULATED),80
+BRITANNIA,pro,ROE_GT_20,Company has delivered superior Return on Equity of 54.1%,95
+BRITANNIA,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 47.7%,90
+BRITANNIA,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹3,050 Cr",92
+BRITANNIA,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+BRITANNIA,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 63.9x P/E (SIMULATED),80
+CANBK,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹13,296 Cr",92
+CANBK,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 18.2% CAGR over 5 years,88
+CANBK,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 85.8% CAGR over 5 years,88
+CANBK,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 3.8% (SIMULATED),82
+CANBK,con,GENERAL_MARKET_CYCLICALITY,Performance subject to sector cyclicality and broader macroeconomic fluctuations,70
+CHOLAFIN,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 21.9% CAGR over 5 years,88
+CHOLAFIN,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 23.4% CAGR over 5 years,88
+CHOLAFIN,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 2.8% (SIMULATED),82
+CHOLAFIN,con,NEGATIVE_FCF,"Free cash flow is negative at ₹-38,538 Cr due to heavy reinvestment/working capital",90
+CHOLAFIN,con,LOW_CFO_PAT,"Low cash conversion (CFO/PAT = -10.43), suggesting accrual buildup",80
+CIPLA,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 67.6%,90
+CIPLA,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹1,152 Cr",92
+CIPLA,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 22.7% CAGR over 5 years,88
+CIPLA,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+CIPLA,pro,HEALTHY_OPM,Healthy operating margin of 75.6%,85
+CIPLA,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 59.8x P/E (SIMULATED),80
+CIPLA,con,HIGH_WC_DAYS,Working capital cycle is extended at 157 days,78
+COALINDIA,pro,ROE_GT_20,Company has delivered superior Return on Equity of 45.2%,95
+COALINDIA,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 98.2%,90
+COALINDIA,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹13,617 Cr",92
+COALINDIA,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 16.4% CAGR over 5 years,88
+COALINDIA,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 4.4% (SIMULATED),82
+COALINDIA,pro,HEALTHY_OPM,Healthy operating margin of 66.3%,85
+COALINDIA,pro,TOP_COMPOSITE_SCORE,Ranks favorably on overall composite financial health index (72.0/100),80
+COALINDIA,con,LOW_CFO_PAT,"Low cash conversion (CFO/PAT = 0.48), suggesting accrual buildup",80
+DABUR,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹1,042 Cr",92
+DABUR,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+DABUR,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 3.4% (SIMULATED),82
+DABUR,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 51.0x P/E (SIMULATED),80
+DIVISLAB,pro,DEBT_FREE,Company is virtually debt-free with zero borrowings,98
+DIVISLAB,pro,POSITIVE_FCF,Generates positive Free Cash Flow of ₹992 Cr,92
+DIVISLAB,pro,HEALTHY_OPM,Healthy operating margin of 28.2%,85
+DIVISLAB,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 70.0x P/E (SIMULATED),80
+DIVISLAB,con,HIGH_WC_DAYS,Working capital cycle is extended at 371 days,78
+DLF,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹1,010 Cr",92
+DLF,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 15.7% CAGR over 5 years,88
+DLF,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 2.6% (SIMULATED),82
+DLF,pro,HEALTHY_OPM,Healthy operating margin of 33.0%,85
+DLF,con,LOW_ROE,"Subdued Return on Equity at 6.9%, below large-cap historical averages",88
+DLF,con,SLOW_REV_GROWTH,Modest 5-year revenue CAGR of -5.1%,82
+DLF,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 46.3x P/E (SIMULATED),80
+DLF,con,HIGH_WC_DAYS,Working capital cycle is extended at 1146 days,78
+DLF,con,HIGH_CAPEX_INTENSITY,High CapEx intensity (23.8% of sales) requires continuous capital deployment,75
+DMART,pro,POSITIVE_FCF,Generates positive Free Cash Flow of ₹278 Cr,92
+DMART,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 20.5% CAGR over 5 years,88
+DMART,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 23.0% CAGR over 5 years,88
+DMART,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+DMART,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 72.5x P/E (SIMULATED),80
+DRREDDY,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 21.4%,90
+DRREDDY,pro,POSITIVE_FCF,Generates positive Free Cash Flow of ₹509 Cr,92
+DRREDDY,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 12.6% CAGR over 5 years,88
+DRREDDY,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 23.4% CAGR over 5 years,88
+DRREDDY,pro,HEALTHY_OPM,Healthy operating margin of 28.3%,85
+DRREDDY,con,HIGH_WC_DAYS,Working capital cycle is extended at 176 days,78
+EICHERMOT,pro,ROE_GT_20,Company has delivered superior Return on Equity of 22.2%,95
+EICHERMOT,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 20.2%,90
+EICHERMOT,pro,POSITIVE_FCF,Generates positive Free Cash Flow of ₹890 Cr,92
+EICHERMOT,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 4.4% (SIMULATED),82
+EICHERMOT,pro,HEALTHY_OPM,Healthy operating margin of 26.2%,85
+EICHERMOT,con,HIGH_CAPEX_INTENSITY,High CapEx intensity (17.1% of sales) requires continuous capital deployment,75
+GAIL,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹4,360 Cr",92
+GAIL,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+GAIL,con,GENERAL_MARKET_CYCLICALITY,Performance subject to sector cyclicality and broader macroeconomic fluctuations,70
+GODREJCP,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 3.1% (SIMULATED),82
+GODREJCP,pro,HEALTHY_OPM,Healthy operating margin of 21.0%,85
+GODREJCP,con,NEGATIVE_FCF,"Free cash flow is negative at ₹-1,365 Cr due to heavy reinvestment/working capital",90
+GODREJCP,con,LOW_ROE,"Subdued Return on Equity at -4.5%, below large-cap historical averages",88
+GODREJCP,con,LOW_ICR,Low interest coverage of 2.4x reflects interest burden on operating profit,85
+GODREJCP,con,LOW_CFO_PAT,"Low cash conversion (CFO/PAT = -3.69), suggesting accrual buildup",80
+GODREJCP,con,HIGH_CAPEX_INTENSITY,High CapEx intensity (24.4% of sales) requires continuous capital deployment,75
+GRASIM,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 29.3% CAGR over 5 years,88
+GRASIM,pro,HEALTHY_OPM,Healthy operating margin of 20.8%,85
+GRASIM,con,NEGATIVE_FCF,"Free cash flow is negative at ₹-33,833 Cr due to heavy reinvestment/working capital",90
+GRASIM,con,LOW_CFO_PAT,"Low cash conversion (CFO/PAT = -1.08), suggesting accrual buildup",80
+GRASIM,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 79.3x P/E (SIMULATED),80
+GRASIM,con,HIGH_CAPEX_INTENSITY,High CapEx intensity (17.6% of sales) requires continuous capital deployment,75
+HAL,pro,ROE_GT_20,Company has delivered superior Return on Equity of 3816.6%,95
+HAL,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 2591.0%,90
+HAL,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹1,814 Cr",92
+HAL,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 26.5% CAGR over 5 years,88
+HAL,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+HAL,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 2.8% (SIMULATED),82
+HAL,pro,HEALTHY_OPM,Healthy operating margin of 32.1%,85
+HAL,pro,TOP_COMPOSITE_SCORE,Ranks favorably on overall composite financial health index (72.3/100),80
+HAL,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 71.9x P/E (SIMULATED),80
+HAL,con,HIGH_CAPEX_INTENSITY,High CapEx intensity (21.1% of sales) requires continuous capital deployment,75
+HAVELLS,pro,POSITIVE_FCF,Generates positive Free Cash Flow of ₹335 Cr,92
+HAVELLS,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 13.0% CAGR over 5 years,88
+HAVELLS,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+HAVELLS,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 2.6% (SIMULATED),82
+HAVELLS,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 45.4x P/E (SIMULATED),80
+HCLTECH,pro,ROE_GT_20,Company has delivered superior Return on Equity of 23.0%,95
+HCLTECH,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 27.1%,90
+HCLTECH,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹15,840 Cr",92
+HCLTECH,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 12.7% CAGR over 5 years,88
+HCLTECH,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+HCLTECH,pro,HEALTHY_OPM,Healthy operating margin of 22.0%,85
+HCLTECH,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 63.6x P/E (SIMULATED),80
+HDFCBANK,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹35,669 Cr",92
+HDFCBANK,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 21.9% CAGR over 5 years,88
+HDFCBANK,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 23.9% CAGR over 5 years,88
+HDFCBANK,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 4.3% (SIMULATED),82
+HDFCBANK,con,LOW_CFO_PAT,"Low cash conversion (CFO/PAT = 0.29), suggesting accrual buildup",80
+HDFCBANK,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 49.4x P/E (SIMULATED),80
+HDFCLIFE,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 21.2% CAGR over 5 years,88
+HDFCLIFE,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+HDFCLIFE,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 3.2% (SIMULATED),82
+HDFCLIFE,con,NEGATIVE_FCF,"Free cash flow is negative at ₹-2,893 Cr due to heavy reinvestment/working capital",90
+HDFCLIFE,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 50.6x P/E (SIMULATED),80
+HEROMOTOCO,pro,ROE_GT_20,Company has delivered superior Return on Equity of 21.1%,95
+HEROMOTOCO,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 173.7%,90
+HEROMOTOCO,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹3,095 Cr",92
+HEROMOTOCO,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+HEROMOTOCO,pro,HEALTHY_OPM,Healthy operating margin of 86.2%,85
+HEROMOTOCO,con,SLOW_REV_GROWTH,Modest 5-year revenue CAGR of 2.1%,82
+HEROMOTOCO,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 53.9x P/E (SIMULATED),80
+HINDALCO,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 113.6%,90
+HINDALCO,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹9,789 Cr",92
+HINDALCO,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+HINDALCO,pro,HEALTHY_OPM,Healthy operating margin of 89.0%,85
+HINDALCO,con,LOW_ROE,"Subdued Return on Equity at 9.6%, below large-cap historical averages",88
+HINDALCO,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 56.5x P/E (SIMULATED),80
+HINDUNILVR,pro,ROE_GT_20,Company has delivered superior Return on Equity of 20.1%,95
+HINDUNILVR,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 87.3%,90
+HINDUNILVR,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹10,145 Cr",92
+HINDUNILVR,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+HINDUNILVR,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 4.3% (SIMULATED),82
+HINDUNILVR,pro,HEALTHY_OPM,Healthy operating margin of 76.3%,85
+HINDUNILVR,con,GENERAL_MARKET_CYCLICALITY,Performance subject to sector cyclicality and broader macroeconomic fluctuations,70
+ICICIBANK,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹12,547 Cr",92
+ICICIBANK,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 17.2% CAGR over 5 years,88
+ICICIBANK,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 52.0% CAGR over 5 years,88
+ICICIBANK,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+ICICIBANK,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 3.4% (SIMULATED),82
+ICICIBANK,con,GENERAL_MARKET_CYCLICALITY,Performance subject to sector cyclicality and broader macroeconomic fluctuations,70
+ICICIGI,pro,DEBT_FREE,Company is virtually debt-free with zero borrowings,98
+ICICIGI,pro,POSITIVE_FCF,Generates positive Free Cash Flow of ₹486 Cr,92
+ICICIGI,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 12.9% CAGR over 5 years,88
+ICICIGI,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+ICICIGI,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 3.5% (SIMULATED),82
+ICICIGI,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 49.0x P/E (SIMULATED),80
+ICICIPRULI,pro,POSITIVE_FCF,Generates positive Free Cash Flow of ₹105 Cr,92
+ICICIPRULI,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 16.9% CAGR over 5 years,88
+ICICIPRULI,con,LOW_ROE,"Subdued Return on Equity at 7.7%, below large-cap historical averages",88
+ICICIPRULI,con,NEGATIVE_PAT_GROWTH,Net profit has contracted over the 5-year historical horizon,85
+ICICIPRULI,con,LOW_CFO_PAT,"Low cash conversion (CFO/PAT = -8.60), suggesting accrual buildup",80
+INDIGO,pro,ROE_GT_20,Company has delivered superior Return on Equity of 892.6%,95
+INDIGO,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 4953.5%,90
+INDIGO,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹9,424 Cr",92
+INDIGO,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 19.3% CAGR over 5 years,88
+INDIGO,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 120.7% CAGR over 5 years,88
+INDIGO,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+INDIGO,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 4.3% (SIMULATED),82
+INDIGO,pro,HEALTHY_OPM,Healthy operating margin of 76.3%,85
+INDIGO,pro,TOP_COMPOSITE_SCORE,Ranks favorably on overall composite financial health index (84.9/100),80
+INDIGO,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 76.2x P/E (SIMULATED),80
+INDIGO,con,HIGH_CAPEX_INTENSITY,High CapEx intensity (17.1% of sales) requires continuous capital deployment,75
+INDUSINDBK,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 15.5% CAGR over 5 years,88
+INDUSINDBK,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 22.1% CAGR over 5 years,88
+INDUSINDBK,con,NEGATIVE_FCF,"Free cash flow is negative at ₹-17,468 Cr due to heavy reinvestment/working capital",90
+INDUSINDBK,con,LOW_CFO_PAT,"Low cash conversion (CFO/PAT = -1.88), suggesting accrual buildup",80
+INFY,pro,ROE_GT_20,Company has delivered superior Return on Equity of 29.8%,95
+INFY,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 32.9%,90
+INFY,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹20,117 Cr",92
+INFY,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 13.2% CAGR over 5 years,88
+INFY,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 4.1% (SIMULATED),82
+INFY,pro,HEALTHY_OPM,Healthy operating margin of 23.7%,85
+INFY,con,GENERAL_MARKET_CYCLICALITY,Performance subject to sector cyclicality and broader macroeconomic fluctuations,70
+IOC,pro,ROE_GT_20,Company has delivered superior Return on Equity of 23.5%,95
+IOC,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹39,635 Cr",92
+IOC,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 20.1% CAGR over 5 years,88
+IOC,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+IOC,con,GENERAL_MARKET_CYCLICALITY,Performance subject to sector cyclicality and broader macroeconomic fluctuations,70
+IRCTC,pro,ROE_GT_20,Company has delivered superior Return on Equity of 34.4%,95
+IRCTC,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 42.8%,90
+IRCTC,pro,POSITIVE_FCF,Generates positive Free Cash Flow of ₹667 Cr,92
+IRCTC,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 18.0% CAGR over 5 years,88
+IRCTC,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 29.2% CAGR over 5 years,88
+IRCTC,pro,HEALTHY_OPM,Healthy operating margin of 34.3%,85
+IRCTC,pro,TOP_COMPOSITE_SCORE,Ranks favorably on overall composite financial health index (68.7/100),80
+IRCTC,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 60.4x P/E (SIMULATED),80
+IRCTC,con,HIGH_WC_DAYS,Working capital cycle is extended at 214 days,78
+IRFC,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹7,906 Cr",92
+IRFC,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 19.1% CAGR over 5 years,88
+IRFC,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 23.2% CAGR over 5 years,88
+IRFC,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+IRFC,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 2.8% (SIMULATED),82
+IRFC,con,GENERAL_MARKET_CYCLICALITY,Performance subject to sector cyclicality and broader macroeconomic fluctuations,70
+ITC,pro,ROE_GT_20,Company has delivered superior Return on Equity of 27.9%,95
+ITC,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 32.6%,90
+ITC,pro,DEBT_FREE,Company is virtually debt-free with zero borrowings,98
+ITC,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹18,742 Cr",92
+ITC,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 4.3% (SIMULATED),82
+ITC,pro,HEALTHY_OPM,Healthy operating margin of 37.0%,85
+ITC,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 47.9x P/E (SIMULATED),80
+JINDALSTEL,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+JINDALSTEL,pro,HEALTHY_OPM,Healthy operating margin of 20.3%,85
+JINDALSTEL,con,NEGATIVE_FCF,"Free cash flow is negative at ₹-2,336 Cr due to heavy reinvestment/working capital",90
+JINDALSTEL,con,SLOW_REV_GROWTH,Modest 5-year revenue CAGR of 1.4%,82
+JINDALSTEL,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 77.6x P/E (SIMULATED),80
+JINDALSTEL,con,HIGH_CAPEX_INTENSITY,High CapEx intensity (16.6% of sales) requires continuous capital deployment,75
+JIOFIN,pro,DEBT_FREE,Company is virtually debt-free with zero borrowings,98
+JIOFIN,pro,POSITIVE_FCF,Generates positive Free Cash Flow of ₹763 Cr,92
+JIOFIN,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 3.1% (SIMULATED),82
+JIOFIN,con,LOW_ROE,"Subdued Return on Equity at 1.1%, below large-cap historical averages",88
+JIOFIN,con,LOW_CFO_PAT,"Low cash conversion (CFO/PAT = -0.42), suggesting accrual buildup",80
+JSWENERGY,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 20.3% CAGR over 5 years,88
+JSWENERGY,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+JSWENERGY,pro,HEALTHY_OPM,Healthy operating margin of 46.9%,85
+JSWENERGY,con,NEGATIVE_FCF,"Free cash flow is negative at ₹-1,963 Cr due to heavy reinvestment/working capital",90
+JSWENERGY,con,LOW_ROE,"Subdued Return on Equity at 8.3%, below large-cap historical averages",88
+JSWENERGY,con,SLOW_REV_GROWTH,Modest 5-year revenue CAGR of 4.7%,82
+JSWENERGY,con,HIGH_WC_DAYS,Working capital cycle is extended at 195 days,78
+JSWENERGY,con,HIGH_CAPEX_INTENSITY,High CapEx intensity (71.4% of sales) requires continuous capital deployment,75
+JSWSTEEL,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 15.6% CAGR over 5 years,88
+JSWSTEEL,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+JSWSTEEL,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 2.9% (SIMULATED),82
+JSWSTEEL,con,NEGATIVE_FCF,"Free cash flow is negative at ₹-2,389 Cr due to heavy reinvestment/working capital",90
+JSWSTEEL,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 69.3x P/E (SIMULATED),80
+KOTAKBANK,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹6,766 Cr",92
+KOTAKBANK,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 13.5% CAGR over 5 years,88
+KOTAKBANK,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 20.4% CAGR over 5 years,88
+KOTAKBANK,con,GENERAL_MARKET_CYCLICALITY,Performance subject to sector cyclicality and broader macroeconomic fluctuations,70
+LICI,pro,ROE_GT_20,Company has delivered superior Return on Equity of 49.5%,95
+LICI,pro,DEBT_FREE,Company is virtually debt-free with zero borrowings,98
+LICI,pro,POSITIVE_FCF,Generates positive Free Cash Flow of ₹853 Cr,92
+LICI,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 73.2% CAGR over 5 years,88
+LICI,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 3.8% (SIMULATED),82
+LICI,con,GENERAL_MARKET_CYCLICALITY,Performance subject to sector cyclicality and broader macroeconomic fluctuations,70
+LODHA,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+LODHA,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 4.0% (SIMULATED),82
+LODHA,pro,HEALTHY_OPM,Healthy operating margin of 25.8%,85
+LODHA,con,NEGATIVE_FCF,Free cash flow is negative at ₹-435 Cr due to heavy reinvestment/working capital,90
+LODHA,con,LOW_ROE,"Subdued Return on Equity at 8.9%, below large-cap historical averages",88
+LODHA,con,SLOW_REV_GROWTH,Modest 5-year revenue CAGR of -2.8%,82
+LODHA,con,NEGATIVE_PAT_GROWTH,Net profit has contracted over the 5-year historical horizon,85
+LODHA,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 52.0x P/E (SIMULATED),80
+LODHA,con,HIGH_WC_DAYS,Working capital cycle is extended at 760 days,78
+LODHA,con,HIGH_CAPEX_INTENSITY,High CapEx intensity (28.6% of sales) requires continuous capital deployment,75
+LT,pro,ROE_GT_20,Company has delivered superior Return on Equity of 77.7%,95
+LT,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 118.5%,90
+LT,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹20,445 Cr",92
+LT,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+LT,pro,TOP_COMPOSITE_SCORE,Ranks favorably on overall composite financial health index (68.1/100),80
+LT,con,GENERAL_MARKET_CYCLICALITY,Performance subject to sector cyclicality and broader macroeconomic fluctuations,70
+LTIM,pro,ROE_GT_20,Company has delivered superior Return on Equity of 22.9%,95
+LTIM,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 25.2%,90
+LTIM,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹1,752 Cr",92
+LTIM,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 30.3% CAGR over 5 years,88
+LTIM,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 24.8% CAGR over 5 years,88
+LTIM,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+LTIM,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 4.4% (SIMULATED),82
+LTIM,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 64.5x P/E (SIMULATED),80
+M&M,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 15.3% CAGR over 5 years,88
+M&M,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 2.4% (SIMULATED),82
+M&M,con,NEGATIVE_FCF,"Free cash flow is negative at ₹-11,245 Cr due to heavy reinvestment/working capital",90
+M&M,con,LOW_CFO_PAT,"Low cash conversion (CFO/PAT = -0.46), suggesting accrual buildup",80
+M&M,con,HIGH_WC_DAYS,Working capital cycle is extended at 272 days,78
+MARUTI,pro,DEBT_FREE,Company is virtually debt-free with zero borrowings,98
+MARUTI,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹4,936 Cr",92
+MARUTI,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+MARUTI,con,GENERAL_MARKET_CYCLICALITY,Performance subject to sector cyclicality and broader macroeconomic fluctuations,70
+MOTHERSON,pro,POSITIVE_FCF,Generates positive Free Cash Flow of ₹925 Cr,92
+MOTHERSON,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+MOTHERSON,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 2.2% (SIMULATED),82
+MOTHERSON,con,GENERAL_MARKET_CYCLICALITY,Performance subject to sector cyclicality and broader macroeconomic fluctuations,70
+NAUKRI,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 17.1% CAGR over 5 years,88
+NAUKRI,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+NAUKRI,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 4.3% (SIMULATED),82
+NAUKRI,pro,HEALTHY_OPM,Healthy operating margin of 28.0%,85
+NAUKRI,con,NEGATIVE_FCF,Free cash flow is negative at ₹-150 Cr due to heavy reinvestment/working capital,90
+NAUKRI,con,LOW_ROE,"Subdued Return on Equity at 2.0%, below large-cap historical averages",88
+NAUKRI,con,HIGH_CAPEX_INTENSITY,High CapEx intensity (33.6% of sales) requires continuous capital deployment,75
+NESTLEIND,pro,ROE_GT_20,Company has delivered superior Return on Equity of 117.8%,95
+NESTLEIND,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 143.2%,90
+NESTLEIND,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹2,938 Cr",92
+NESTLEIND,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 14.6% CAGR over 5 years,88
+NESTLEIND,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+NESTLEIND,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 3.9% (SIMULATED),82
+NESTLEIND,pro,HEALTHY_OPM,Healthy operating margin of 23.8%,85
+NESTLEIND,pro,TOP_COMPOSITE_SCORE,Ranks favorably on overall composite financial health index (71.3/100),80
+NESTLEIND,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 55.0x P/E (SIMULATED),80
+NHPC,pro,POSITIVE_FCF,Generates positive Free Cash Flow of ₹970 Cr,92
+NHPC,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+NHPC,pro,HEALTHY_OPM,Healthy operating margin of 49.9%,85
+NHPC,con,SLOW_REV_GROWTH,Modest 5-year revenue CAGR of 1.4%,82
+NHPC,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 71.2x P/E (SIMULATED),80
+NHPC,con,HIGH_WC_DAYS,Working capital cycle is extended at 359 days,78
+NHPC,con,HIGH_CAPEX_INTENSITY,High CapEx intensity (62.0% of sales) requires continuous capital deployment,75
+NTPC,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹8,644 Cr",92
+NTPC,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 12.2% CAGR over 5 years,88
+NTPC,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+NTPC,pro,HEALTHY_OPM,Healthy operating margin of 28.8%,85
+NTPC,con,HIGH_CAPEX_INTENSITY,High CapEx intensity (18.0% of sales) requires continuous capital deployment,75
+ONGC,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹42,060 Cr",92
+ONGC,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+ONGC,con,GENERAL_MARKET_CYCLICALITY,Performance subject to sector cyclicality and broader macroeconomic fluctuations,70
+PFC,pro,ROE_GT_20,Company has delivered superior Return on Equity of 26.2%,95
+PFC,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 15.9% CAGR over 5 years,88
+PFC,con,NEGATIVE_FCF,"Free cash flow is negative at ₹-101,229 Cr due to heavy reinvestment/working capital",90
+PFC,con,LOW_CFO_PAT,"Low cash conversion (CFO/PAT = -3.70), suggesting accrual buildup",80
+PIDILITIND,pro,ROE_GT_20,Company has delivered superior Return on Equity of 20.8%,95
+PIDILITIND,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 26.9%,90
+PIDILITIND,pro,POSITIVE_FCF,Generates positive Free Cash Flow of ₹955 Cr,92
+PIDILITIND,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+PIDILITIND,pro,HEALTHY_OPM,Healthy operating margin of 21.9%,85
+PIDILITIND,con,GENERAL_MARKET_CYCLICALITY,Performance subject to sector cyclicality and broader macroeconomic fluctuations,70
+PNB,pro,ROE_GT_20,Company has delivered superior Return on Equity of 61.3%,95
+PNB,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 15.9% CAGR over 5 years,88
+PNB,con,NEGATIVE_FCF,"Free cash flow is negative at ₹-29,445 Cr due to heavy reinvestment/working capital",90
+PNB,con,LOW_CFO_PAT,"Low cash conversion (CFO/PAT = -3.05), suggesting accrual buildup",80
+POWERGRID,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹24,176 Cr",92
+POWERGRID,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+POWERGRID,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 3.1% (SIMULATED),82
+POWERGRID,pro,HEALTHY_OPM,Healthy operating margin of 86.9%,85
+POWERGRID,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 64.4x P/E (SIMULATED),80
+POWERGRID,con,HIGH_CAPEX_INTENSITY,High CapEx intensity (28.6% of sales) requires continuous capital deployment,75
+RECLTD,pro,ROE_GT_20,Company has delivered superior Return on Equity of 20.4%,95
+RECLTD,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 13.3% CAGR over 5 years,88
+RECLTD,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 19.8% CAGR over 5 years,88
+RECLTD,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 2.2% (SIMULATED),82
+RECLTD,con,NEGATIVE_FCF,"Free cash flow is negative at ₹-59,554 Cr due to heavy reinvestment/working capital",90
+RECLTD,con,LOW_CFO_PAT,"Low cash conversion (CFO/PAT = -4.08), suggesting accrual buildup",80
+RELIANCE,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹45,207 Cr",92
+RELIANCE,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+RELIANCE,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 4.2% (SIMULATED),82
+RELIANCE,con,LOW_ROE,"Subdued Return on Equity at 10.0%, below large-cap historical averages",88
+RELIANCE,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 58.3x P/E (SIMULATED),80
+SBILIFE,pro,DEBT_FREE,Company is virtually debt-free with zero borrowings,98
+SBILIFE,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 24.2% CAGR over 5 years,88
+SBILIFE,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+SBILIFE,con,NEGATIVE_FCF,"Free cash flow is negative at ₹-2,099 Cr due to heavy reinvestment/working capital",90
+SBILIFE,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 70.0x P/E (SIMULATED),80
+SBIN,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹18,156 Cr",92
+SBIN,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 83.4% CAGR over 5 years,88
+SBIN,con,LOW_CFO_PAT,"Low cash conversion (CFO/PAT = 0.31), suggesting accrual buildup",80
+SBIN,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 54.9x P/E (SIMULATED),80
+SHREECEM,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹1,929 Cr",92
+SHREECEM,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+SHREECEM,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 3.2% (SIMULATED),82
+SHREECEM,pro,HEALTHY_OPM,Healthy operating margin of 22.0%,85
+SHREECEM,con,LOW_ROE,"Subdued Return on Equity at 8.4%, below large-cap historical averages",88
+SHRIRAMFIN,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 18.6% CAGR over 5 years,88
+SHRIRAMFIN,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 23.5% CAGR over 5 years,88
+SHRIRAMFIN,con,NEGATIVE_FCF,"Free cash flow is negative at ₹-31,359 Cr due to heavy reinvestment/working capital",90
+SHRIRAMFIN,con,LOW_CFO_PAT,"Low cash conversion (CFO/PAT = -4.20), suggesting accrual buildup",80
+SHRIRAMFIN,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 68.5x P/E (SIMULATED),80
+SIEMENS,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹1,168 Cr",92
+SIEMENS,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 19.9% CAGR over 5 years,88
+SIEMENS,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 3.7% (SIMULATED),82
+SIEMENS,con,HIGH_WC_DAYS,Working capital cycle is extended at 204 days,78
+SUNPHARMA,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹11,372 Cr",92
+SUNPHARMA,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 24.5% CAGR over 5 years,88
+SUNPHARMA,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+SUNPHARMA,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 3.9% (SIMULATED),82
+SUNPHARMA,pro,HEALTHY_OPM,Healthy operating margin of 26.8%,85
+SUNPHARMA,con,HIGH_WC_DAYS,Working capital cycle is extended at 176 days,78
+TATACONSUM,pro,POSITIVE_FCF,Generates positive Free Cash Flow of ₹26 Cr,92
+TATACONSUM,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 16.0% CAGR over 5 years,88
+TATACONSUM,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 21.6% CAGR over 5 years,88
+TATACONSUM,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+TATACONSUM,con,LOW_ROE,"Subdued Return on Equity at 7.6%, below large-cap historical averages",88
+TATACONSUM,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 54.8x P/E (SIMULATED),80
+TATAMOTORS,pro,ROE_GT_20,Company has delivered superior Return on Equity of 37.5%,95
+TATAMOTORS,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹45,133 Cr",92
+TATAMOTORS,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+TATAMOTORS,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 3.6% (SIMULATED),82
+TATAMOTORS,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 67.1x P/E (SIMULATED),80
+TATAPOWER,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹3,569 Cr",92
+TATAPOWER,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 15.5% CAGR over 5 years,88
+TATAPOWER,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+TATAPOWER,con,GENERAL_MARKET_CYCLICALITY,Performance subject to sector cyclicality and broader macroeconomic fluctuations,70
+TATASTEEL,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹6,048 Cr",92
+TATASTEEL,con,LOW_ROE,"Subdued Return on Equity at -5.3%, below large-cap historical averages",88
+TATASTEEL,con,LOW_ICR,Low interest coverage of 2.2x reflects interest burden on operating profit,85
+TATASTEEL,con,LOW_CFO_PAT,"Low cash conversion (CFO/PAT = -4.13), suggesting accrual buildup",80
+TATASTEEL,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 49.0x P/E (SIMULATED),80
+TCS,pro,ROE_GT_20,Company has delivered superior Return on Equity of 50.9%,95
+TCS,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 60.2%,90
+TCS,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹50,429 Cr",92
+TCS,pro,HEALTHY_OPM,Healthy operating margin of 26.7%,85
+TCS,pro,TOP_COMPOSITE_SCORE,Ranks favorably on overall composite financial health index (70.3/100),80
+TCS,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 78.7x P/E (SIMULATED),80
+TECHM,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹5,058 Cr",92
+TECHM,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+TECHM,con,LOW_ROE,"Subdued Return on Equity at 9.0%, below large-cap historical averages",88
+TECHM,con,NEGATIVE_PAT_GROWTH,Net profit has contracted over the 5-year historical horizon,85
+TECHM,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 57.4x P/E (SIMULATED),80
+TITAN,pro,ROE_GT_20,Company has delivered superior Return on Equity of 37.2%,95
+TITAN,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹1,506 Cr",92
+TITAN,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 20.9% CAGR over 5 years,88
+TITAN,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 20.3% CAGR over 5 years,88
+TITAN,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 3.1% (SIMULATED),82
+TITAN,con,LOW_CFO_PAT,"Low cash conversion (CFO/PAT = 0.48), suggesting accrual buildup",80
+TITAN,con,HIGH_WC_DAYS,Working capital cycle is extended at 134 days,78
+TORNTPHARM,pro,ROE_GT_20,Company has delivered superior Return on Equity of 24.1%,95
+TORNTPHARM,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 23.5%,90
+TORNTPHARM,pro,POSITIVE_FCF,"Generates positive Free Cash Flow of ₹3,106 Cr",92
+TORNTPHARM,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 30.6% CAGR over 5 years,88
+TORNTPHARM,pro,HIGH_CFO_PAT,High cash conversion quality with CFO exceeding reported net profit,85
+TORNTPHARM,pro,HEALTHY_OPM,Healthy operating margin of 31.4%,85
+TORNTPHARM,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 46.4x P/E (SIMULATED),80
+TRENT,pro,ROE_GT_20,Company has delivered superior Return on Equity of 36.3%,95
+TRENT,pro,ROCE_GT_20,Strong capital efficiency with ROCE at 22.3%,90
+TRENT,pro,POSITIVE_FCF,Generates positive Free Cash Flow of ₹841 Cr,92
+TRENT,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 36.3% CAGR over 5 years,88
+TRENT,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 73.1% CAGR over 5 years,88
+TRENT,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 3.5% (SIMULATED),82
+TRENT,pro,TOP_COMPOSITE_SCORE,Ranks favorably on overall composite financial health index (65.9/100),80
+TRENT,con,GENERAL_MARKET_CYCLICALITY,Performance subject to sector cyclicality and broader macroeconomic fluctuations,70
+TVSMOTOR,pro,ROE_GT_20,Company has delivered superior Return on Equity of 26.2%,95
+TVSMOTOR,pro,REV_CAGR_GT_12,Steady revenue growth compounding at 14.2% CAGR over 5 years,88
+TVSMOTOR,pro,PAT_CAGR_GT_15,Robust profit growth compounding at 19.7% CAGR over 5 years,88
+TVSMOTOR,pro,ATTRACTIVE_DIV_YIELD,Offers an attractive dividend yield of 3.1% (SIMULATED),82
+TVSMOTOR,con,HIGH_LEVERAGE,Elevated leverage with Debt-to-Equity ratio of 3.83x,92
+TVSMOTOR,con,NEGATIVE_FCF,"Free cash flow is negative at ₹-2,254 Cr due to heavy reinvestment/working capital",90
+TVSMOTOR,con,LOW_CFO_PAT,"Low cash conversion (CFO/PAT = -0.70), suggesting accrual buildup",80
+TVSMOTOR,con,PREMIUM_VALUATION,Trades at an elevated valuation multiple of 46.1x P/E (SIMULATED),80
+TVSMOTOR,con,HIGH_WC_DAYS,Working capital cycle is extended at 231 days,78

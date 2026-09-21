@@ -1,0 +1,93 @@
+company_id,company_id,company_name,broad_sector,cluster_id,cluster_name,distance_from_centroid
+ABB,ABB,Abbott India Ltd,Industrials,4,Moderate Growth Compounders,0.476
+ADANIENSOL,ADANIENSOL,Adani Energy Solutions Ltd,Energy,1,Defensive Cash Generator,0.915
+ADANIENT,ADANIENT,Adani Enterprises Ltd,Industrials,1,Defensive Cash Generator,0.488
+ADANIGREEN,ADANIGREEN,Adani Green Energy Ltd,Energy,2,Value Cyclicals,2.805
+ADANIPORTS,ADANIPORTS,Adani Ports & Special Economic Zone Ltd,Industrials,0,High-Quality Growth,1.089
+ADANIPOWER,ADANIPOWER,Adani Power Ltd,Energy,1,Defensive Cash Generator,1.107
+AMBUJACEM,AMBUJACEM,Ambuja Cements Ltd,Materials,4,Moderate Growth Compounders,0.579
+APOLLOHOSP,APOLLOHOSP,Apollo Hospitals Chain of Indian private hospitals,Healthcare,1,Defensive Cash Generator,0.655
+ASIANPAINT,ASIANPAINT,Asian Paints Indian Multi-National Paint and Coating Manufacturing Company,Materials,4,Moderate Growth Compounders,0.728
+ATGL,ATGL,Adani Total Gas Ltd,Energy,1,Defensive Cash Generator,0.407
+AXISBANK,AXISBANK,Axis Bank Ltd,Financials,2,Value Cyclicals,1.273
+BAJAJ-AUTO,BAJAJ-AUTO,Bajaj Auto Ltd,Consumer Discretionary,4,Moderate Growth Compounders,0.16
+BAJAJFINSV,BAJAJFINSV,Bajaj Finserv Ltd,Financials,2,Value Cyclicals,2.027
+BAJAJHLDNG,BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,0,High-Quality Growth,2.483
+BAJFINANCE,BAJFINANCE,Bajaj Finance Ltd,Financials,2,Value Cyclicals,2.356
+BANKBARODA,BANKBARODA,Bank of Baroda,Financials,2,Value Cyclicals,2.204
+BEL,BEL,Bharat Electronics Ltd,Industrials,3,Capital Intensive / Turnaround,0.764
+BHARTIARTL,BHARTIARTL,Bharti Airtel Ltd,Communication Services,0,High-Quality Growth,1.346
+BHEL,BHEL,Bharat Heavy Electricals Limited,Industrials,4,Moderate Growth Compounders,1.937
+BOSCHLTD,BOSCHLTD,Bosch Ltd,Consumer Discretionary,4,Moderate Growth Compounders,0.485
+BPCL,BPCL,Bharat Petroleum Corporation Ltd,Energy,4,Moderate Growth Compounders,0.801
+BRITANNIA,BRITANNIA,Britannia Industries Ltd,Consumer Staples,4,Moderate Growth Compounders,0.293
+CANBK,CANBK,Canara Bank,Financials,2,Value Cyclicals,3.506
+CHOLAFIN,CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,2,Value Cyclicals,0.706
+CIPLA,CIPLA,Cipla Ltd,Healthcare,0,High-Quality Growth,1.012
+COALINDIA,COALINDIA,Coal India Ltd,Materials,0,High-Quality Growth,1.27
+DABUR,DABUR,Dabur India Ltd,Consumer Staples,4,Moderate Growth Compounders,0.369
+DIVISLAB,DIVISLAB,Divis Laboratories Ltd,Healthcare,4,Moderate Growth Compounders,0.538
+DLF,DLF,DLF Ltd,Real Estate,4,Moderate Growth Compounders,1.924
+DMART,DMART,Avenue Supermarts Ltd,Consumer Discretionary,1,Defensive Cash Generator,0.557
+DRREDDY,DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,4,Moderate Growth Compounders,0.803
+EICHERMOT,EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,4,Moderate Growth Compounders,0.606
+GAIL,GAIL,GAIL (India) Ltd,Energy,4,Moderate Growth Compounders,0.644
+GODREJCP,GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,4,Moderate Growth Compounders,0.521
+GRASIM,GRASIM,Grasim Industries Ltd,Industrials,1,Defensive Cash Generator,1.809
+HAL,HAL,Hindustan Aeronautics Ltd,Industrials,3,Capital Intensive / Turnaround,0.764
+HAVELLS,HAVELLS,Havells India Ltd,Industrials,4,Moderate Growth Compounders,0.863
+HCLTECH,HCLTECH,HCL Technologies Ltd,Information Technology,4,Moderate Growth Compounders,0.706
+HDFCBANK,HDFCBANK,HDFC Bank Ltd,Financials,0,High-Quality Growth,2.444
+HDFCLIFE,HDFCLIFE,HDFC Life Insurance Company Ltd,Financials,0,High-Quality Growth,1.408
+HEROMOTOCO,HEROMOTOCO,Hero MotoCorp Ltd,Consumer Discretionary,0,High-Quality Growth,1.854
+HINDALCO,HINDALCO,Hindalco Industries Ltd,Materials,0,High-Quality Growth,0.779
+HINDUNILVR,HINDUNILVR,Hindustan Unilever Ltd,Consumer Staples,0,High-Quality Growth,0.94
+ICICIBANK,ICICIBANK,ICICI Bank Ltd,Financials,0,High-Quality Growth,1.822
+ICICIGI,ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,0,High-Quality Growth,0.818
+ICICIPRULI,ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,0,High-Quality Growth,1.123
+INDIGO,INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,0,High-Quality Growth,1.592
+INDUSINDBK,INDUSINDBK,IndusInd Bank Ltd,Financials,2,Value Cyclicals,1.041
+INFY,INFY,Infosys Ltd,Information Technology,4,Moderate Growth Compounders,0.862
+IOC,IOC,Indian Oil Corporation,Energy,4,Moderate Growth Compounders,1.375
+IRCTC,IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,1,Defensive Cash Generator,0.675
+IRFC,IRFC,Indian Railway Finance Corporation Ltd,Financials,0,High-Quality Growth,2.525
+ITC,ITC,ITC Ltd,Consumer Staples,4,Moderate Growth Compounders,0.771
+JINDALSTEL,JINDALSTEL,Jindal Steel & Power Ltd,Materials,4,Moderate Growth Compounders,1.053
+JIOFIN,JIOFIN,Jio Financial Services Ltd,Financials,0,High-Quality Growth,0.837
+JSWENERGY,JSWENERGY,JSW Energy Ltd,Energy,4,Moderate Growth Compounders,1.275
+JSWSTEEL,JSWSTEEL,JSW Steel Ltd,Materials,1,Defensive Cash Generator,0.495
+KOTAKBANK,KOTAKBANK,Kotak Mahindra Bank Ltd,Financials,0,High-Quality Growth,0.832
+LICI,LICI,Life Insurance Corporation of India,Financials,4,Moderate Growth Compounders,0.699
+LODHA,LODHA,Macrotech Developers Ltd,Real Estate,4,Moderate Growth Compounders,1.58
+LT,LT,Larsen & Toubro Ltd,Industrials,4,Moderate Growth Compounders,0.631
+LTIM,LTIM,LTIMindtree Ltd,Information Technology,1,Defensive Cash Generator,1.585
+M&M,M&M,Mahindra & Mahindra Ltd,Consumer Discretionary,4,Moderate Growth Compounders,1.048
+MARUTI,MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,4,Moderate Growth Compounders,0.467
+MOTHERSON,MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,4,Moderate Growth Compounders,0.56
+NAUKRI,NAUKRI,Info Edge (India) Ltd,Communication Services,1,Defensive Cash Generator,0.545
+NESTLEIND,NESTLEIND,Nestle India Ltd,Consumer Staples,1,Defensive Cash Generator,0.748
+NHPC,NHPC,NHPC Ltd,Energy,4,Moderate Growth Compounders,1.499
+NTPC,NTPC,NTPC Ltd,Energy,4,Moderate Growth Compounders,0.766
+ONGC,ONGC,Oil & Natural Gas Corpn Ltd,Energy,4,Moderate Growth Compounders,1.437
+PFC,PFC,Power Finance Corporation Ltd,Financials,2,Value Cyclicals,2.986
+PIDILITIND,PIDILITIND,Pidilite Industries Ltd,Materials,4,Moderate Growth Compounders,0.642
+PNB,PNB,Punjab National Bank,Financials,2,Value Cyclicals,1.518
+POWERGRID,POWERGRID,Power Grid Corporation of India Ltd,Energy,0,High-Quality Growth,1.435
+RECLTD,RECLTD,REC Ltd,Financials,2,Value Cyclicals,2.449
+RELIANCE,RELIANCE,Reliance Industries Ltd,Energy,4,Moderate Growth Compounders,1.579
+SBILIFE,SBILIFE,SBI Life Insurance Company Ltd,Financials,1,Defensive Cash Generator,1.049
+SBIN,SBIN,State Bank of India,Financials,4,Moderate Growth Compounders,1.373
+SHREECEM,SHREECEM,Shree Cement Ltd,Materials,4,Moderate Growth Compounders,0.461
+SHRIRAMFIN,SHRIRAMFIN,Shriram Finance Ltd,Financials,2,Value Cyclicals,1.296
+SIEMENS,SIEMENS,Siemens Ltd,Industrials,4,Moderate Growth Compounders,0.601
+SUNPHARMA,SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Healthcare,4,Moderate Growth Compounders,0.475
+TATACONSUM,TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,1,Defensive Cash Generator,0.523
+TATAMOTORS,TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,4,Moderate Growth Compounders,1.608
+TATAPOWER,TATAPOWER,Tata Power Company Ltd,Energy,1,Defensive Cash Generator,0.584
+TATASTEEL,TATASTEEL,Tata Steel Ltd,Materials,4,Moderate Growth Compounders,0.446
+TCS,TCS,Tata Consultancy Services Ltd,Information Technology,4,Moderate Growth Compounders,1.84
+TECHM,TECHM,Tech Mahindra Ltd,Information Technology,4,Moderate Growth Compounders,0.454
+TITAN,TITAN,Titan Company Ltd,Consumer Discretionary,1,Defensive Cash Generator,0.485
+TORNTPHARM,TORNTPHARM,Torrent Pharmaceuticals Ltd,Healthcare,4,Moderate Growth Compounders,0.539
+TRENT,TRENT,Trent Ltd,Consumer Discretionary,1,Defensive Cash Generator,2.384
+TVSMOTOR,TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,1,Defensive Cash Generator,1.228

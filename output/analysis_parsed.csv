@@ -1,0 +1,14 @@
+company_id,metric_type,period_years,value_pct
+TCS,compounded_sales_growth,1,5.0
+TCS,compounded_profit_growth,1,8.0
+TCS,stock_price_cagr,1,16.0
+HDFCBANK,compounded_sales_growth,1,47.0
+HDFCBANK,compounded_profit_growth,1,27.0
+HDFCBANK,stock_price_cagr,1,13.0
+INFY,compounded_sales_growth,1,3.0
+INFY,compounded_profit_growth,1,8.0
+INFY,stock_price_cagr,1,27.0
+SBILIFE,compounded_sales_growth,10,23.0
+SBILIFE,compounded_profit_growth,10,9.0
+SBILIFE,stock_price_cagr,10,9.0
+SBILIFE,roe,10,16.0

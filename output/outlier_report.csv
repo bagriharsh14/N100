@@ -1,0 +1,13 @@
+company_id,company_name,sector,metric,value,z_score,sector_mean,sector_std,flag
+"company_id    INDIGO
+company_id    INDIGO
+Name: 46, dtype: object",Interglobe Aviation Ltd,Consumer Discretionary,return_on_equity_pct,892.57,3.47,86.72,232.1,Outlier (|Z|>3)
+"company_id    TATAMOTORS
+company_id    TATAMOTORS
+Name: 83, dtype: object",Tata Motors Ltd,Consumer Discretionary,free_cash_flow_cr,45133.0,3.23,4444.14,12601.4,Outlier (|Z|>3)
+"company_id    ADANIGREEN
+company_id    ADANIGREEN
+Name: 3, dtype: object",Adani Green Energy Ltd,Energy,debt_to_equity,6.6,3.14,1.46,1.64,Outlier (|Z|>3)
+"company_id    PNB
+company_id    PNB
+Name: 72, dtype: object",Punjab National Bank,Financials,return_on_equity_pct,61.32,3.25,19.01,13.02,Outlier (|Z|>3)
